@@ -58,3 +58,7 @@ Here's the screenshot of Table Structure (See screenshots)
 ### ER Diagram or Relational Schema
 
 ![Sample Output](images/ER_DIAGRAM.PNG)
+
+### Sql copy of the database and table structures
+![sample Output](images/COPY2.png)
+
