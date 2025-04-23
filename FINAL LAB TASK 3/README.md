@@ -61,3 +61,7 @@ DESCRIBE products_tbl;
 ###  ER Diagram or Relational Schema 
 
 ![Sample Output](images/ER3.png)
+
+### Sql copy of the database and table structures
+![sample Output](images/COPY3.png)
+
