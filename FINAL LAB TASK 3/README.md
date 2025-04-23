@@ -34,6 +34,8 @@ INSERT INTO products_tbl (product_name, price) VALUES
 ('Mouse', 14.99),
 ('Desk Lamp', 24.99),
 ('Speakers', 9.99);
+
+SELECT * FROM products_tbl;
 ```
 
 ### TASK 4
