@@ -87,6 +87,6 @@ This diagram shows a visual representation of the relationships among the tables
 ![sample Output](images/ERD.PNG)
 
 ### Sql copy of the database and table structures
-![sample Output](images/COPY1.PNG)
+![sample Output](images/COPY1.png)
 
 
