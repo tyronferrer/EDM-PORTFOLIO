@@ -1,4 +1,4 @@
-# Finals Lab Task 3.1 Using SELECT CLAUSE
+# Finals Lab Task 3.1: Using SELECT CLAUSE
 For this task, we are given initial query then perform the SELECT statements required for each problems. To use a SELECT clause in order to specify the names of the fields that have data that want to use in a query. 
 
 ## Here’s the Query Statements
