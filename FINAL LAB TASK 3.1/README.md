@@ -42,7 +42,7 @@ FROM courses
 ORDER BY students_enrolled ASC;
 ```
 
-Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
+## Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
 
 ### TASK 1
 
@@ -64,7 +64,7 @@ Here's the screenshot of the whole Query Statements and Table Structure (See scr
 
 ![Sample Output](images/LAB3TASK5.PNG)
 
-Sql copy of the database and table structures
+### Sql copy of the database and table structures
 
 ![Sample Output](images/COPY3.1.PNG)
 
