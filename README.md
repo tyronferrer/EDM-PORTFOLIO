@@ -24,3 +24,4 @@ Outside of the classroom, I’m constantly experimenting with new coding project
 - FINAL LAB TASK 1: [Multi Level Company Database](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/FINAL%20LAB%20TASK%201/README.md)
 - FINAL LAB TASK 2: [Transform ER into Relational Tables](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/FINAL%20LAB%20TASK%202/README.md)
 - FINAL LAB TASK 3: [Table Manipulation](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/FINAL%20LAB%20TASK%203/README.md)
+- FINAL LAB TASK 3: [Using SELECT CLAUSE](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/FINAL%20LAB%20TASK%203.1/README.md)
