@@ -17,11 +17,11 @@ Outside of the classroom, I’m constantly experimenting with new coding project
 ## My Projects
 ### MIDTERM
 - MIDTERM LAB TASK 1: [Data cleaning and Preparation using EXCEL](MIDTERM%20LAB%20TASK%201)
-- MIDTERM LAB TASK 2: [Data Modeling using Power Query](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/MIDTERM%20LAB%20TASK%202/README.md)
-- MIDTERM LAB TASK 3: [Creating Pivot Table and Dashboard](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/MIDTERM%20LAB%20TASK%203/README.md)
+- MIDTERM LAB TASK 2: [Data Modeling using Power Query](MIDTERM%20LAB%20TASK%202)
+- MIDTERM LAB TASK 3: [Creating Pivot Table and Dashboard](MIDTERM%20LAB%20TASK%203)
 
 ### FINAL
-- FINAL LAB TASK 1: [Multi Level Company Database](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/FINAL%20LAB%20TASK%201/README.md)
-- FINAL LAB TASK 2: [Transform ER into Relational Tables](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/FINAL%20LAB%20TASK%202/README.md)
-- FINAL LAB TASK 3: [Table Manipulation](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/FINAL%20LAB%20TASK%203/README.md)
-- FINAL LAB TASK 3.1: [Using SELECT CLAUSE](https://github.com/tyronferrer/EDM-PORTFOLIO/tree/main/FINAL%20LAB%20TASK%203.1/README.md)
+- FINAL LAB TASK 1: [Multi Level Company Database](FINAL%20LAB%20TASK%201)
+- FINAL LAB TASK 2: [Transform ER into Relational Tables](FINAL%20LAB%20TASK%202)
+- FINAL LAB TASK 3: [Table Manipulation](FINAL%20LAB%20TASK%203)
+- FINAL LAB TASK 3.1: [Using SELECT CLAUSE](FINAL%20LAB%20TASK%203.1)
