@@ -53,7 +53,7 @@ Here's the screenshot of Table Structure (See screenshots)
 ### Submission Table
 
 
-![Sample Output](images/SUBMISSION.PNG)
+![Sample Output](images/SUBMISSIONS.PNG)
 
 ### ER Diagram or Relational Schema
 
