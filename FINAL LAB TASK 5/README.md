@@ -1,5 +1,5 @@
-# Final Lab Task 3.1: Using SELECT CLAUSE
-For this task, we are given initial query then perform the SELECT statements required for each problems. To use a SELECT clause in order to specify the names of the fields that have data that want to use in a query. 
+# Final Lab Task 5: Using SQL Views and Stored Procedures and Stored Functions
+For this task, we are given initial query creates reusable views, procedures, and functions to simplify querying and updating product and vendor data in the inventory database.
 
 ## Here’s the Query Statements
 
